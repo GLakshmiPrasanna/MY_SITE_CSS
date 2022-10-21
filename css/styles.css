@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: dotted;
+  /* border-top-style: dotted; */
+  border-top: 0;
+  border-color: #D8D8D8;
+  border-width: 10px;
+  width:7% ;
+}
+p{
+  line-height:2;
+}
+div{
+  padding: 1%;
+}
+a{
+  color: #11999E;
+  text-decoration:none;
+}
+a:hover{
+  color: #1CD6CE;
+}
+.c1{
+  color: #2192FF;
+  background-color: #CDFCF6;
+  padding-top:120px;
+  padding-bottom: 0;
+  position: relative;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 40px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+}
+.sub_h{
+  color:#2192FF;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  color: #1CD6CE;
+  font-size: 2rem;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+.c_top{
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+.c_bottom{
+  position: absolute;
+  left:300px;
+  top:350px;
+}
+.skill-row{
+  display: inline-block;
+  position: relative;
+  left:8%;
+}
+.skill_{
+  height:100px;
+  width:100px;
+  position: relative;
+  left: 5%;
+}
+.skill__{
+  height:150px;
+  width:150px;
+  position:relative;
+  right: 9%;
+  /* position: absolute;
+  right:600px; */
+}
+.skill-set{
+  display: inline-block;
+  position: relative;
+  right: 11%;
+}
+.skill-set1{
+  display: inline-block;
+}
+.c3{
+  background-color: #CDFCF6;
+  padding:20px;
+  font-family: 'Merriweather', serif;
+}
+.footer-link{
+  padding: 10px;
+}
+.c2{
+  margin: 70px auto 10px;
+}
+.btn{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #66BFBF;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: #6FEDD6;
+  font-weight: bolder;
+}
+.btn:hover{
+  background-color: #6FEDD6;
+  box-shadow: 30px;
+}
